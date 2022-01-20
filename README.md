@@ -1,6 +1,6 @@
 # Earth - Topography grid at 10 arc-minute resolution
 
-Global 10 arc-minute resolution grids of topography (ETOPO1 bedrock) referenced
+Global 10 arc-minute resolution grids of topography (ETOPO1 ice-surface) referenced
 to mean sea-level.
 
 ![Global map of topographic height.](preview.jpg)

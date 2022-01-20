@@ -1,4 +1,4 @@
-name: fatiando-data-CHANGEME
+name: fatiando-data-earth-topography
 channels:
   - conda-forge
   - defaults
@@ -18,4 +18,3 @@ dependencies:
   - pooch>=1.0
   - harmonica==0.4.*
   - verde==1.6.1
-  - boule==0.3.*
